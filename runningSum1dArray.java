@@ -14,6 +14,6 @@ public class runningSum1dArray {
     } 
 }
 
-// Time Complexity: O(N)
-// Space Complexity: O(N)
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 
